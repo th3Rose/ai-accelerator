@@ -31,9 +31,9 @@ spec:
     - name: Small-Medium
       resources:
         limits:
-          cpu: 6
+          cpu: '6'
           memory: 8Gi
         requests:
-          cpu: 4
+          cpu: '4'
           memory: 4Gi 
 
