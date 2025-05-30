@@ -5,3 +5,4 @@ namespace: parasol-insurance
 
 resources:
   - dspa.yaml
+  - secret_conf_4_pipeline.yaml
